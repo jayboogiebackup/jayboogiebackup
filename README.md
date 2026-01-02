@@ -1,8 +1,8 @@
 ## I Love Making Stuff Then Never Finishing it :)
 
-Instagram: @lil._.saltine
-Discord: @jaygotleaked
-Website: https://repeaks.xyz/
+- Instagram: @lil._.saltine
+- Discord: @jaygotleaked
+- Website: https://repeaks.xyz/
 
 <!--
 **jayboogiebackup/jayboogiebackup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
