@@ -4,4 +4,4 @@ and I love making projects and getting fixated on it for a couple days.
 
 - 📫 Instagram: @lil._.saltine
 - 💬 Discord: @jaygotleaked
-- 🌐 Website: https://repeaks.xyz/
+- 🌐 Website: https://web.repeaks.xyz/
