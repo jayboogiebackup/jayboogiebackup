@@ -36,7 +36,6 @@
 
 - Instagram: [@lil._.saltine](https://instagram.com/lil._.saltine)
 - Discord: `@jaygotleaked`
-- Website: [https://repeaks.xyz/](https://repeaks.xyz/)
 
 ---
 
