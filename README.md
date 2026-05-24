@@ -33,6 +33,7 @@
 
 - Instagram: [@lil._.saltine](https://instagram.com/lil._.saltine)
 - Discord: `@jaygotleaked`
+- Email: `jaygotleaked@gmail.com`
 
 
 <p align="center">
