@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Instagram-@lil._.saltine-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
   <img src="https://img.shields.io/badge/Discord-@jaygotleaked-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-  Email: `jaygotleaked@gmail.com`
+  Personal Email: jaygotleaked@gmail.com
 </p>
 
 
