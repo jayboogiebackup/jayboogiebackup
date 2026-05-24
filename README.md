@@ -29,7 +29,9 @@
     <img src="https://img.shields.io/badge/Instagram-@lil._.saltine-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
   <img src="https://img.shields.io/badge/Discord-@jaygotleaked-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-  Personal Email: jaygotleaked@gmail.com
+  <a href="mailto:jaygotleaked@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jaygotleaked%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
 </p>
 
 
