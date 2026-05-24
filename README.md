@@ -3,10 +3,13 @@
 
 <p align="center">
   <a href="https://repeaks.xyz/">
-    </a>
+    <img src="https://img.shields.io/badge/Website-repeaks.xyz-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Badge" />
+  </a>
   <a href="https://instagram.com/lil._.saltine">
-    </a>
-  </p>
+    <img src="https://img.shields.io/badge/Instagram-@lil._.saltine-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-@jaygotleaked-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+</p>
 
 ---
 
@@ -21,20 +24,11 @@
 ## ⚙️ Tech I Actually Use
 
 <p>
-  </p>
+  <img src="https://skillicons.dev/icons?i=html,cs,java,cpp,git,github,vscode" alt="Tech Stack Icons" />
+</p>
 
 - **Proficient:** HTML, C#, Java  
 - **Also touched:** a tiny bit of C++
-
----
-
-## 🎞️ Current Vibe
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k3eHp2YzN2eW5mM2Q4dDN2a2w0YjN6aW9tM3VnYmF0a3I5aGJ6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="420" alt="coding gif" />
-</p>
-
-> Replace that GIF URL with your own favorites (I can pick better ones for your exact style).
 
 ---
 
@@ -46,5 +40,6 @@
 
 ---
 
-## 🧩 Fun Fact
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
