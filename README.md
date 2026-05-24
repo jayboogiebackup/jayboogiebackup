@@ -13,15 +13,15 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🔥 I get fixated on projects for 48 hours straight, then spawn 3 more.
-- 🛠️ I build for fun, break things, rebuild better.
-- 🌐 Building and experimenting at [repeaks.xyz](https://repeaks.xyz/)
+- I get fixated on projects for 48 hours straight, then make 3 more.
+- I build for fun, break things, rebuild better.
+- Building and experimenting at [repeaks.xyz](https://repeaks.xyz/)
 
 ---
 
-## ⚙️ Tech I Actually Use
+## Tech I Actually Use
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,cs,java,cpp,git,github,vscode" alt="Tech Stack Icons" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 📫 Reach Me
+## Socials
 
 - Instagram: [@lil._.saltine](https://instagram.com/lil._.saltine)
 - Discord: `@jaygotleaked`
