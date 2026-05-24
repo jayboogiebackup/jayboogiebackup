@@ -1,16 +1,6 @@
 <h1 align="center">Hey, I'm Jason Pascoe 👋</h1>
 <h3 align="center">I love making stuff... then never finishing it :)</h3>
 
-<p align="center">
-  <a href="https://repeaks.xyz/">
-    <img src="https://img.shields.io/badge/Website-repeaks.xyz-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Badge" />
-  </a>
-  <a href="https://instagram.com/lil._.saltine">
-    <img src="https://img.shields.io/badge/Instagram-@lil._.saltine-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-@jaygotleaked-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-</p>
-
 
 ## About Me
 
@@ -31,9 +21,16 @@
 
 ## Socials
 
-- Instagram: [@lil._.saltine](https://instagram.com/lil._.saltine)
-- Discord: `@jaygotleaked`
-- Email: `jaygotleaked@gmail.com`
+<p align="center">
+  <a href="https://repeaks.xyz/">
+    <img src="https://img.shields.io/badge/Website-repeaks.xyz-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Badge" />
+  </a>
+  <a href="https://instagram.com/lil._.saltine">
+    <img src="https://img.shields.io/badge/Instagram-@lil._.saltine-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-@jaygotleaked-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  Email: `jaygotleaked@gmail.com`
+</p>
 
 
 <p align="center">
