@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Discord-@jaygotleaked-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
 </p>
 
----
 
 ## About Me
 
@@ -19,7 +18,6 @@
 - I build for fun, break things, rebuild better.
 - Building and experimenting at [repeaks.xyz](https://repeaks.xyz/)
 
----
 
 ## Tech I Actually Use
 
@@ -30,14 +28,12 @@
 - **Proficient:** HTML, C#, Java  
 - **Also touched:** a tiny bit of C++
 
----
 
 ## Socials
 
 - Instagram: [@lil._.saltine](https://instagram.com/lil._.saltine)
 - Discord: `@jaygotleaked`
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayboogiebackup&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
